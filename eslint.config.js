@@ -1,5 +1,6 @@
+// @ts-ignore -- no types for this module
 import { FlatCompat } from "@eslint/eslintrc";
-import tseslint from "typescript-eslint";
+import tseslint from "@typescript-eslint/eslint-plugin";
 // @ts-ignore -- no types for this plugin
 import drizzle from "eslint-plugin-drizzle";
 
